@@ -3,7 +3,7 @@
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2021-blue)
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2023-blue)
 
-Welcome to my repository for Advent of Code challenges! This repository contains my personal solutions and code for the Advent of Code puzzles.
+A repository for Advent of Code challenges. This repository contains my solutions and code for the Advent of Code puzzles.
 
 ## What is Advent of Code?
 
